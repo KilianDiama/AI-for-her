@@ -36,6 +36,8 @@ UltraSecureMammoAI is built on Conformal Prediction with RAPS and randomization,
 
 Predictions include uncertainty-aware sets.
 
+product SaaS : https://github.com/diama-ai/pinkshield-engine
+
 The true label is covered with high probability (1 – α).
 
 Edge cases are safely handled with a full fallback prediction set.
